@@ -16,7 +16,7 @@ apt-get update && apt-get upgrade -y && apt dist-upgrade -y && update-grub
 ### INSTALL SCRIPT 
 
 
-<pre><code> wget -q https://raw.githubusercontent.com/carntech/install/refs/heads/main/Genom_v1 && chmod +x Genom_v1  && ./Genom_v1 
+<pre><code> wget -q https://raw.githubusercontent.com/purwodadi101/ins/refs/heads/main/gnm/Genom_v1 && chmod +x Genom_v1  && ./Genom_v1 
 </code></pre>
 
 
